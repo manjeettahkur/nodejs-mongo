@@ -12,7 +12,7 @@
     "good": "^6.2.0",
     "good-console": "^5.0.2",
     "google-distance-matrix": "0.0.3",
-    "handlebars": "^3.0.3",
+    "handlebars": "^4.5.3",
     "hapi": "^13.3.0",
     "hapi-auth-bearer-token": "^4.1.0",
     "hapi-cors-headers": "^1.0.0",
